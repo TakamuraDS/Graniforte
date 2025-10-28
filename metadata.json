@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Estoque Graniforte",
+  "description": "Um sistema completo de controle de estoque para gerenciar produtos, entradas, saídas e gerar relatórios detalhados. Criado para tornar a rotina de controle e gestão mais simples e eficiente.",
+  "requestFramePermissions": []
+}
